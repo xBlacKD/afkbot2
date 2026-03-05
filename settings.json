@@ -27,7 +27,7 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true,
-      "walk": true
+      "w": true
     },
 
     "chat-messages": {
