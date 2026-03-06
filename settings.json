@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "OnePiece3mk", 
+    "username": "onepiece3mk12",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "iAceu.aternos.me", 
-    "port": 47695,   
-    "version": "1.12.1"   
+    "ip": "iAceu.aternos.me",
+    "port": 47695 ,
+    "version": "1.12.1"
   },
 
   "position": {
@@ -20,19 +20,19 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": ""
-    },
+      "enabled": true,
+      "password": "" 
+    }, 
 
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
 
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 25,
 
       "messages": [
         "انا بوت",
